@@ -1,8 +1,8 @@
-# Clinical Data Analasis Page
-By Abadio Costa-Junior
+# Clinical Data Analyses
+**By Abadio Costa-Junior**
 
-Here you can find a portfolio Abadio's work as clinical data analises.
-
+Welcome! Here, you can find a portfolio of Abadio's work as clinical data analist.
+##
 You can use the [editor on GitHub](https://github.com/PhD-CostaJunior/Clinical-data-analasis-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
